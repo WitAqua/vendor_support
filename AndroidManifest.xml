@@ -16,7 +16,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.derpfest.support">
+    package="tokyo.witaqua.support">
 
     <uses-sdk
         android:minSdkVersion="27" />
